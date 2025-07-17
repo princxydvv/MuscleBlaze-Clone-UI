@@ -15,7 +15,7 @@ This is a self-initiated UI design project created to:
 
 ## 📸 Live Preview
 
-[🔗 View Website Demo](#) <!-- Replace # with live link when hosted -->
+https://muscle-blaze-clone-acccvy2f6-prince-yadavs-projects-de87d503.vercel.app/
 
 ---
 
@@ -38,6 +38,7 @@ This is a self-initiated UI design project created to:
 - **JavaScript (basic)**
 - **Google Fonts (Roboto)**
 - **Font Awesome Icons**
+- **GSAP**
 
 ---
 
