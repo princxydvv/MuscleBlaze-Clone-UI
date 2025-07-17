@@ -1,4 +1,4 @@
-# 💪 Muscle Blaze UI (Frontend Prototype)
+#  Muscle Blaze UI (Frontend Prototype)
 
 A responsive and visually engaging frontend UI prototype for a product-based fitness brand, inspired by **Muscle Blaze**. This project is built to practice modern frontend development skills including layout design, component structure, and mobile responsiveness.
 
